@@ -1,2 +1,2 @@
 TESTING
-https://jenniferccao.github.io/odin-recipes/recipes/
+https://jenniferccao.github.io/odin-recipes
